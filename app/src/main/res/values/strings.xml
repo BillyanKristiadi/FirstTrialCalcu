@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Trial</string>
+
+    <string-array name="operator">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+</resources>
